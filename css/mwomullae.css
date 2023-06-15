@@ -64,9 +64,9 @@ h2 { margin-top: 0; }
 .tm-left-inner { position: fixed; }
 .tm-head-logo  {
     background-color: white;
-    margin-right: 20px;
-    width: 120px;
-    height: 120px;
+    margin-right: 10px;
+    padding: auto;
+    width: 20%;
 }
 .tm-site-header {
     background-color: white;
@@ -352,7 +352,7 @@ h2 { margin-top: 0; }
 }
 
 @media (max-width: 479px) {
-    .tm-site-name { font-size: 2.6rem; }
+    .tm-site-name { font-size: 2.2rem; }
     .tm-site-logo { margin-right: 20px; }
 
     .tm-list-item {
