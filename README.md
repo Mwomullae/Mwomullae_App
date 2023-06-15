@@ -1,6 +1,6 @@
-# Mwomullae_App 
+<h1>Mwomullae_App</h1>  
 <hr>
-# 1. 개요
+<h1>1. 개요</h1>
 <pre>
   - 해당 App은 동아대 학생을 위한 음식 추천 서비스를 제공하는 앱입니다.
   - App의 이름은 저희 팀의 이름에서 따온 Mwomullae입니다.
