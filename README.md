@@ -11,10 +11,11 @@
 
 <h2>2. Web View App</h2>
 <h3><pre>
-🍩 Android Studio를 통해 정식적으로 coding하여 개발하려 했으나, 프로젝트 평가 종료일까지
-   시간이 얼마 남지 않아서 기존에 출시되어 있는 Web site 배포 service를 제공하는 플랫폼인 netlify와
-   앱 제작 자동화 서비스를 제공하는 swing2app 플랫폼을 활용하여 App을 제작했습니다.
-   해당 App에서 보이는 Web site의 주소는 https://mwomullae.netlify.app 입니다.
+🍩  Android Studio를 통해 정식적으로 coding하여 개발하려 했으나, 
+    프로젝트 평가 종료일까지 시간이 얼마 남지 않아서 기존에 출시되어 있는 
+    Web site 배포 service를 제공하는 플랫폼인 netlify와앱 제작 자동화 
+    서비스를 제공하는 swing2app 플랫폼을 활용하여 App을 제작했습니다.
+    해당 App에서 보이는 Web site의 주소는 https://mwomullae.netlify.app 입니다.
 </pre></h3>
 
 <hr>
@@ -27,10 +28,12 @@
 <h1>2. Repository 설명</h1>
 <h3><pre>
     🌐 css : Mwomullae Web 화면에 대한 css 정보가 저장되어 있다.
-    🖋️ fontawesome : 무료 font service를 제공하는 플랫폼에서 다운받은 font에 관한 css 파일 및 정보들이 저장되어 있다.
+    🖋️ fontawesome : 무료 font service를 제공하는 플랫폼에서 다운받은 
+        font에 관한 css 파일 및 정보들이 저장되어 있다.
     💻 js : Web site에 관한 java script 코드가 저장되어 있다.
     👓 video : Web site의 back ground 화면에 반복재생되는 동영상이 저장되어 있다.
-    📱 Mwomullae-0_3_debug.apk : 상기 Repository에 있는 폴더 및 파일과, 여러 플랫폼을 결합하여 제작된 Mwomullae 어플리케이션이다.
+    📱 Mwomullae-0_3_debug.apk : 상기 Repository에 있는 폴더 및 파일과, 
+        여러 플랫폼을 결합하여 제작된 Mwomullae 어플리케이션이다.
 </pre></h3>
                         
 
