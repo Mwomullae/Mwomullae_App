@@ -17,5 +17,6 @@
    
 
    Mwomullae_App은 다음 링크를 클릭하시면 다운받을 수 있습니다.
+   Mwomullae-0_3_debug.apk
 </pre></h3>
 
