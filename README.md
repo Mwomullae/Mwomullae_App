@@ -24,4 +24,14 @@
     https://github.com/Mwomullae/Mwomullae_App/blob/19a433ea2a314270f981d165bf1a27585d6a24d8/Mwomullae-0_3_debug.apk
 </pre></h3>
 
+<h1>2. Repository 설명</h1>
+<h3><pre>
+    - css : Mwomullae Web 화면에 대한 css 정보가 저장되어 있다.
+    - fontawesome : 무료 font service를 제공하는 플랫폼에서 다운받은 font에 관한 css 파일 및 정보들이 저장되어 있다.
+    - js : Web site에 관한 java script 코드가 저장되어 있다.
+    - video : Web site의 back ground 화면에 반복재생되는 동영상이 저장되어 있다.
+</pre></h3>
+                        
+
+
 
